@@ -1,2 +1,6 @@
 # winget-test
 WindowsPackageManagerでの環境構築テスト用のスクリプト集
+
+## 最終的に目指す物
+
+Windows再インストール後から、WindowsPackageManagerを用い必要ソフトのインストール、およびアカウントのセットアップを行う

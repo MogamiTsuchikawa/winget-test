@@ -1,0 +1,26 @@
+CrystalDiskInfo Kurei Kei Edition
+LastPass
+Drive File Stream
+Google Chrome
+Android Studio
+Unity Hub
+Steam
+LINE
+Git
+Git Large File Storage
+Zoom
+Sourcetree
+MakeMKV
+Arduino IDE
+balenaEtcher
+Windows Terminal
+Visual Studio Community 2019
+Visual Studio Code
+Slack
+iTunes
+PowerToys
+Discord
+OBS Studio
+RTX Voice
+Typora
+Ubuntu
