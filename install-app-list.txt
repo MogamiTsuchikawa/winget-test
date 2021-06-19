@@ -2,7 +2,6 @@ CrystalDiskInfo Kurei Kei Edition
 LastPass
 Drive File Stream
 Google Chrome
-Android Studio
 Unity Hub
 Steam
 LINE
@@ -24,3 +23,4 @@ OBS Studio
 RTX Voice
 Typora
 Ubuntu
+Android Studio
